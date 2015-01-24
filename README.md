@@ -22,11 +22,8 @@ during Vulval Induction in _C. elegans_](http://ac.els-cdn.com/0092867489901037/
   * [Vulval Development Worm Book ](http://www.wormbook.org/chapters/www_vulvaldev/vulvaldev.html)
 * [Bargmann _et al._ 1993 - Odorant-Selective Genes and Neurons Mediate Olfaction in _C. elegans_](http://ac.els-cdn.com/009286749380053H/1-s2.0-009286749380053H-main.pdf?_tid=dea7e1b0-984f-11e4-b43b-00000aacb35d&acdnat=1420843133_9a7cd293cc1018fdd3d788e076279de7)
 * [Kimble 1981 ￼Alterations in Cell Lineage following Laser Ablation of Cells in the Somatic Gonad of _Caenorhabditis elegans_ ](http://ac.els-cdn.com/0012160681901524/1-s2.0-0012160681901524-main.pdf?_tid=1a5bc780-9850-11e4-93e5-00000aacb361&acdnat=1420843233_2e7315ac3dd2931fbdb85fac8cd6427d)
-* []()
-* []()
 
-
-## Genomics
+## Genomics / Bioinformatics
 
 * [Genomics papers assembled by Jeff Leek](https://github.com/jtleek/genomicspapers)
 * [modENCODE](http://www.modencode.org)
@@ -35,28 +32,14 @@ during Vulval Induction in _C. elegans_](http://ac.els-cdn.com/0092867489901037/
   * []()
 * [Andersen _et al._ 2012 - Chromosome-scale selective sweeps shape Caenorhabditis elegans genomic diversity](http://www.andersenlab.org/pub/2012AndersenNat%20Genet.pdf)
 * [Rockman and Kruglyak 2010 - Recombinational Landscape and Population Genomics of _Caenorhabditis elegans_](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000419#pgen-1000419-g010)
-* []()
-* []()
-* []()
-
-
-
 * [Wicks _et al._  2001  Rapid gene mapping in Caenorhabditis elegans using a high density polymorphism map](http://www.nature.com/ng/journal/v28/n2/full/ng0601_160.html)
+* [A History of Bioinformatics (in the Year 2039)](https://www.youtube.com/watch?v=uwsjwMO-TEA) - Talk by Titus Brown
 * Swan 2004?
 * Vergara 2014?
 * Asher Cutter's paper on background selection
 
 ## Quantitative Genetics
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 * drosophila bristle 1990's Mackay
 * yeast with Krulgyak, eQTL, scaling
 * elegans QTL papers
