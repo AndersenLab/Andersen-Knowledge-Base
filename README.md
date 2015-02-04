@@ -48,23 +48,29 @@ during Vulval Induction in _C. elegans_](http://ac.els-cdn.com/0092867489901037/
 
 ## Quantitative Genetics
 
+* [Dilda and Mackay 2002 - The Genetic Architecture of Drosophila Sensory Bristle Number](http://www.genetics.org/content/162/4/1655.full.pdf+html)
+* [Gurganus _et al._ 1999 - High-Resolution Mapping of Quantitative Trait Loci for Sternopleural Bristle Number in Drosophila melanogaster](http://www.genetics.org/content/152/4/1585.full.pdf+html)
+* [Brem and Kruglyak 2004 - The landscape of genetic complexity across 5,700 gene expression traits in yeast](http://www.pnas.org/content/102/5/1572.full)
+* [Rockman and Kruglyak 2006 - Genetics of Global Gene Expression ](http://www.nature.com/nrg/journal/v7/n11/pdf/nrg1964.pdf) - **REVIEW** of eQTL
+* [Bloom _et al._ 2013 - Finding the sources of missing heritability in a yeast cross](http://www.nature.com/nature/journal/v494/n7436/full/nature11867.html)
+* [Lander and Kruglyak 1995 - Genetic Dissection of complex traits: guidelines for interpreting and reporting linkage results ](http://www.princeton.edu/genomics/kruglyak/publication/PDF/1995_Lander_Genetic.pdf)
 * []()
 * []()
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* drosophila bristle 1990's Mackay
+
 * yeast with Krulgyak, eQTL, scaling
 * elegans QTL papers
 * arabidopsis, Ed Buckler, Magnus Nordberg, Detlef Weigel, Joy Bergleson
 * maize, cattle, etc.
 
+## Tool we use
+* [Kang _et al._ 2008 - Efficient Control of Population Structure in Model Organism Association Mapping](http://www.genetics.org/content/178/3/1709.abstract) - Controlling population structure for association mapping - **EMMA**
+* [Zhou and Stephens 2012 - Genome-wide efficient mixed-model analysis for association studies](http://www.nature.com/ng/journal/v44/n7/abs/ng.2310.html) - Implementation of EMMA in C for faster processing
+  * [User Manual](http://home.uchicago.edu/xz7/software/GEMMAmanual.pdf)
+* [Li _et al._ 2009 - The Sequence Alignment/Map format and SAMtools](http://bioinformatics.oxfordjournals.org/content/25/16/2078.long8)
 
-## Resources online
+
+## Online Resources
 
 1. [Online Course](http://nitro.biosci.arizona.edu/workshops/Aarhus2006/Aarhus-06.html) in quantitative genetics. There is a lecture linear algebra with examples in R. About 20 lectures
 
