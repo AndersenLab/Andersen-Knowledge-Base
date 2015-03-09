@@ -23,7 +23,11 @@ during Vulval Induction in _C. elegans_](http://ac.els-cdn.com/0092867489901037/
 * [Bargmann _et al._ 1993 - Odorant-Selective Genes and Neurons Mediate Olfaction in _C. elegans_](http://ac.els-cdn.com/009286749380053H/1-s2.0-009286749380053H-main.pdf?_tid=dea7e1b0-984f-11e4-b43b-00000aacb35d&acdnat=1420843133_9a7cd293cc1018fdd3d788e076279de7)
 * [Kimble 1981 ￼Alterations in Cell Lineage following Laser Ablation of Cells in the Somatic Gonad of _Caenorhabditis elegans_ ](http://ac.els-cdn.com/0012160681901524/1-s2.0-0012160681901524-main.pdf?_tid=1a5bc780-9850-11e4-93e5-00000aacb361&acdnat=1420843233_2e7315ac3dd2931fbdb85fac8cd6427d)
 
-## Genomics / Bioinformatics
+## Bioinformatics
+
+* [Li and Durbin 2009 - Fast and accurate short read alignment with Burrows–Wheeler transform](http://bioinformatics.oxfordjournals.org/content/25/14/1754.short) 
+
+## Genomics
 
 * [Genomics papers assembled by Jeff Leek](https://github.com/jtleek/genomicspapers)
 * [modENCODE](http://www.modencode.org)
