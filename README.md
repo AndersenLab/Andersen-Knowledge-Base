@@ -29,6 +29,8 @@ during Vulval Induction in _C. elegans_
 * []()
 * []()
 
+## Bioinformatics
+* [Li and Durbin 2009 - Fast and accurate short read alignment with Burrows–Wheeler transform](http://bioinformatics.oxfordjournals.org/content/25/14/1754.short) 
 
 ## Topoisomerases and Topoisomerase inhibtors
 
@@ -41,8 +43,6 @@ during Vulval Induction in _C. elegans_
 * []()
 * []()
 * []()
-
-
 
 
 
@@ -63,17 +63,11 @@ during Vulval Induction in _C. elegans_
 * [Cutter 2005](http://labs.eeb.utoronto.ca/cutter/pdf/Cutter_2006_Genetics.pdf) Nucleotide polymorphisms and LD in _C. elegans_
 * [Wicks _et al._  2001](http://www.nature.com/ng/journal/v28/n2/full/ng0601_160.html) Rapid gene mapping in Caenorhabditis elegans using a high density polymorphism map
 * [Haber _et al._ 2005](http://mbe.oxfordjournals.org/content/22/1/160.long) Evolutionary history of _C. elegans_ inferred from microsatellites
-* [Mayden _et al._ 2010](http://www.biomedcentral.com/1471-2164/11/62) Copy number variation in 12 _C. elegans_ wild isolates _M. nematophilum_
+* [A History of Bioinformatics (in the Year 2039)](https://www.youtube.com/watch?v=uwsjwMO-TEA) - Talk by Titus Brown
 * [Thompson _et al._ 2013](http://genome.cshlp.org/content/23/10/1749.full) The million mutations project in _C. elegans_
 * []()
 * []()
 * []()
-* []()
-* []()
-* []()
-
-
-
 * Asher Cutter's paper on background selection
 
 ## Quantitative Genetics
@@ -98,6 +92,7 @@ during Vulval Induction in _C. elegans_
 
 
 * yeast with Krulgyak, eQTL, scaling
+* elegans QTL papers
 * arabidopsis, Ed Buckler, Magnus Nordberg, Detlef Weigel, Joy Bergleson
 * maize, cattle, etc.
 
